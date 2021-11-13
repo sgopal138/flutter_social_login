@@ -4,13 +4,21 @@ Flutter Social Login Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a social auth login for a Flutter application. This repo contains below social authentication:
 
-A few resources to get you started if this is your first Flutter project:
+1. Google
+2. Facebook
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screens
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Login Module](#LoginModule)
+- [Home Page](#HomeModule)
+
+
+## LoginModule
+<img src=" https://github.com/sgopal138/flutter_social_login/screenshot/login.jpeg" height="500"> 
+
+## HomeModule
+<img src=" https://github.com/sgopal138/flutter_social_login/screenshot/google.jpeg" height="500"> 
+<img src=" https://github.com/sgopal138/flutter_social_login/screenshot/facebook.jpeg" height="500"> 
+
