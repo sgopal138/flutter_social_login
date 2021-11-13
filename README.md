@@ -19,6 +19,5 @@ This project is a social auth login for a Flutter application. This repo contain
 <img src="https://github.com/sgopal138/flutter_social_login/blob/master/screenshot/login.jpeg" height="500"> 
 
 ## HomeModule
-<img src="https://github.com/sgopal138/flutter_social_login/blob/master/screenshot/google.jpeg" height="500"> 
-<img src="https://github.com/sgopal138/flutter_social_login/blob/master/screenshot/facebook.jpeg" height="500"> 
+<img src="https://github.com/sgopal138/flutter_social_login/blob/master/screenshot/google.jpeg" height="500"> <img src="https://github.com/sgopal138/flutter_social_login/blob/master/screenshot/facebook.jpeg" height="500"> 
 
