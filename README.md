@@ -21,3 +21,14 @@ This project is a social auth login for a Flutter application. This repo contain
 ## HomeModule
 <img src="https://github.com/sgopal138/flutter_social_login/blob/master/screenshot/google.jpeg" height="500"> <img src="https://github.com/sgopal138/flutter_social_login/blob/master/screenshot/facebook.jpeg" height="500"> 
 
+
+## LICENSE
+```
+
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+             TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
