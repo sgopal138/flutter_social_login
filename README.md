@@ -8,6 +8,7 @@ This is a sample social auth applicaion in flutter. This repo contains below soc
 
 1. Google
 2. Facebook
+3. Twitter
 
 ## Screens
 
