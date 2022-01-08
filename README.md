@@ -4,7 +4,7 @@ Flutter Social Login Project
 
 ## Getting Started
 
-This project is a social auth login for a Flutter application. This repo contains below social authentication:
+Social auth login in Flutter. This repo contains below social authentication:
 
 1. Google
 2. Facebook
